@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Mis bandas favoritas</h2>
+  
+  <table class="w3-table w3-striped">
+    <tr>
+      <th>Nombre de la Banda</th>
+      <th>Cantante</th>
+      <th>Generos</th>
+    </tr>
+    <tr>
+      <td>Imagine Dragons</td>
+      <td>Uno re fachero</td>
+      <td>Pop/Rock</td>
+    </tr>
+    <tr>
+      <td>YSYA</td>
+      <td>Alejo 247</td>
+      <td>Trap</td>
+    </tr>
+    <tr>
+      <td>Metalica</td>
+      <td>El Rubio fachero de tachas</td>
+      <td>Rock Heavy</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
